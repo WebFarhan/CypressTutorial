@@ -1,0 +1,15 @@
+{
+  "name": "cypresstutorial",
+  "version": "1.0.0",
+  "description": "This is my first Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Razin Farhan Hussain",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.3",
+    "xpath_cypress": "^2.0.0"
+  }
+}
